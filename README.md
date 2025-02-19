@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/meteor-contacts-app.git
+git clone https://github.com/basharatmuhd/contacts-app.git
 cd meteor-contacts-app
 ```
 
