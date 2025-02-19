@@ -1,0 +1,27 @@
+# Meteor build and local files
+node_modules/
+.meteor/local/
+.meteor/dev_bundle/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor and OS-specific files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
